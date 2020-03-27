@@ -25,10 +25,14 @@
     "F7",
     "F8",
     {
-      "x": 0.5
+      "x": 0.5,
+      "c": "#eb70ff"
     },
-    "F9",
-    "F10",
+    "F9\n\n\n\n\n\nDC",
+    "F10\n\n\n\n\n\nQuit",
+    {
+      "c": "#808080"
+    },
     "F11",
     "F12",
     {
@@ -40,9 +44,10 @@
   ],
   [
     {
-      "y": 0.5
+      "y": 0.5,
+      "c": "#00a3ff"
     },
-    "`",
+    "`\n\n\n\n\n\nInspect",
     {
       "c": "#dcff57"
     },
@@ -93,15 +98,18 @@
       "c": "#ff8f8f"
     },
     "W\n\n\n\n\n\nForward",
-    "E\n\n\n\n\n\nUse",
     {
       "c": "#00a3ff"
     },
+    "E\n\n\n\n\n\nUse",
     "R\n\n\n\n\n\nReload",
+    {
+      "c": "#dcff57"
+    },
+    "T\n\n\n\n\n\nSmoke",
     {
       "c": "#eb70ff"
     },
-    "T\n\n\n\n\n\nSpray",
     "Y\n\n\n\n\n\nChat",
     "U\nChat\n\n\n\n\nTeam",
     {
@@ -110,17 +118,15 @@
     "I\n\n\n\n\n\nShittalk",
     "O\n\n\n\n\n\nShittalk",
     "P\n\n\n\n\n\nShittalk",
-    {
-      "c": "#808080"
-    },
-    "[",
-    "]",
+    "[\n\n\n\n\n\nShittalk",
+    "]\n\n\n\n\n\nShittalk",
     {
       "w": 1.5
     },
-    "\\",
+    "\\\n\n\n\n\n\nShittalk",
     {
-      "x": 0.25
+      "x": 0.25,
+      "c": "#808080"
     },
     "DEL",
     "END",
@@ -146,11 +152,11 @@
     "S\n\n\n\n\n\nBack",
     "D\n\n\n\n\n\nRight",
     {
-      "c": "#00a3ff",
+      "c": "#dcff57",
       "n": true
     },
-    "F\n\n\n\n\n\nInspect",
-    "G\n\n\n\n\n\nDrop",
+    "F\n\n\n\n\n\nFlash",
+    "G\n\n\n\n\n\nGrenade",
     {
       "c": "#808080"
     },
@@ -159,8 +165,14 @@
       "n": true
     },
     "J",
-    "K",
-    "L",
+    {
+      "c": "#00ff19"
+    },
+    "K\n\n\n\n\n\nShittalk",
+    "L\n\n\n\n\n\nShittalk",
+    {
+      "c": "#808080"
+    },
     ";",
     "'",
     {
@@ -184,34 +196,32 @@
     },
     "SHIFT\n\n\n\n\n\nSneak",
     {
-      "c": "#808080"
+      "c": "#00a3ff"
     },
-    "Z",
-    "X",
-    "C",
+    "Z\n\n\n\n\n\nBuy",
+    "X\n\n\n\n\n\nDrop",
+    {
+      "c": "#dcff57"
+    },
+    "C\n\n\n\n\n\nMolotov",
+    "V\n\n\n\n\n\nDecoy",
     {
       "c": "#eb70ff"
     },
-    "V\n\n\n\n\n\nRadio",
-    {
-      "c": "#00a3ff"
-    },
-    "B\n\n\n\n\n\nBuy",
+    "B\n\n\n\n\n\nRadio",
     {
       "c": "#808080"
     },
     "N",
+    "M",
+    ",",
     {
       "c": "#eb70ff"
     },
-    "M\nSelect\n\n\n\n\nTeam",
+    ".\nSelect\n\n\n\n\nTeam",
+    "/\n\n\n\n\n\nConsole",
     {
-      "c": "#808080"
-    },
-    ",",
-    ".",
-    "/",
-    {
+      "c": "#808080",
       "w": 2.75
     },
     "SHIFT",
