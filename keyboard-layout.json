@@ -1,0 +1,284 @@
+[
+  {
+    "backcolor": "#222222"
+  },
+  [
+    {
+      "c": "#eb70ff",
+      "p": "FLAT",
+      "a": 5
+    },
+    "ESC\nGame\n\n\n\n\nPause",
+    {
+      "x": 1,
+      "c": "#808080"
+    },
+    "F1",
+    "F2",
+    "F3",
+    "F4",
+    {
+      "x": 0.5
+    },
+    "F5",
+    "F6",
+    "F7",
+    "F8",
+    {
+      "x": 0.5
+    },
+    "F9",
+    "F10",
+    "F11",
+    "F12",
+    {
+      "x": 0.25
+    },
+    "PRINT",
+    "SCROLL",
+    "PAUSE"
+  ],
+  [
+    {
+      "y": 0.5
+    },
+    "`",
+    {
+      "c": "#dcff57"
+    },
+    "1\n\n\n\n\n\nSlot 1",
+    "2\n\n\n\n\n\nSlot 2",
+    "3\n\n\n\n\n\nSlot 3",
+    "4\n\n\n\n\n\nSlot 4",
+    "5\n\n\n\n\n\nSlot 5",
+    "6\n\n\n\n\n\nSlot 6",
+    "7\n\n\n\n\n\nSlot 7",
+    "8\n\n\n\n\n\nSlot 8",
+    "9\n\n\n\n\n\nSlot 9",
+    "0\n\n\n\n\n\nSlot 10",
+    {
+      "c": "#808080"
+    },
+    "&ndash;",
+    "=",
+    {
+      "w": 2
+    },
+    "BACKSPACE",
+    {
+      "x": 0.25
+    },
+    "INS",
+    "HOME",
+    "PG UP",
+    {
+      "x": 0.25
+    },
+    "NUM",
+    "/",
+    "*",
+    "-"
+  ],
+  [
+    {
+      "c": "#eb70ff",
+      "w": 1.5
+    },
+    "TAB\n\n\n\n\n\nScore",
+    {
+      "c": "#dcff57"
+    },
+    "Q\nWeapon\n\n\n\n\nLast",
+    {
+      "c": "#ff8f8f"
+    },
+    "W\n\n\n\n\n\nForward",
+    "E\n\n\n\n\n\nUse",
+    {
+      "c": "#00a3ff"
+    },
+    "R\n\n\n\n\n\nReload",
+    {
+      "c": "#eb70ff"
+    },
+    "T\n\n\n\n\n\nSpray",
+    "Y\n\n\n\n\n\nChat",
+    "U\nChat\n\n\n\n\nTeam",
+    {
+      "c": "#00ff19"
+    },
+    "I\n\n\n\n\n\nShittalk",
+    "O\n\n\n\n\n\nShittalk",
+    "P\n\n\n\n\n\nShittalk",
+    {
+      "c": "#808080"
+    },
+    "[",
+    "]",
+    {
+      "w": 1.5
+    },
+    "\\",
+    {
+      "x": 0.25
+    },
+    "DEL",
+    "END",
+    "PG DN",
+    {
+      "x": 0.25
+    },
+    "7",
+    "8",
+    "9",
+    {
+      "h": 2
+    },
+    "+"
+  ],
+  [
+    {
+      "c": "#ff8f8f",
+      "w": 1.75
+    },
+    "CTRL\n\n\n\n\n\nCrouch",
+    "A\n\n\n\n\n\nLeft",
+    "S\n\n\n\n\n\nBack",
+    "D\n\n\n\n\n\nRight",
+    {
+      "c": "#00a3ff",
+      "n": true
+    },
+    "F\n\n\n\n\n\nInspect",
+    "G\n\n\n\n\n\nDrop",
+    {
+      "c": "#808080"
+    },
+    "H",
+    {
+      "n": true
+    },
+    "J",
+    "K",
+    "L",
+    ";",
+    "'",
+    {
+      "w": 2.25
+    },
+    "RETURN",
+    {
+      "x": 3.5
+    },
+    "4",
+    {
+      "n": true
+    },
+    "5",
+    "6"
+  ],
+  [
+    {
+      "c": "#ff8f8f",
+      "w": 2.25
+    },
+    "SHIFT\n\n\n\n\n\nSneak",
+    {
+      "c": "#808080"
+    },
+    "Z",
+    "X",
+    "C",
+    {
+      "c": "#eb70ff"
+    },
+    "V\n\n\n\n\n\nRadio",
+    {
+      "c": "#00a3ff"
+    },
+    "B\n\n\n\n\n\nBuy",
+    {
+      "c": "#808080"
+    },
+    "N",
+    {
+      "c": "#eb70ff"
+    },
+    "M\nSelect\n\n\n\n\nTeam",
+    {
+      "c": "#808080"
+    },
+    ",",
+    ".",
+    "/",
+    {
+      "w": 2.75
+    },
+    "SHIFT",
+    {
+      "x": 1.25
+    },
+    "&#9652;",
+    {
+      "x": 1.25
+    },
+    "1",
+    "2",
+    "3",
+    {
+      "h": 2
+    },
+    "ENTER"
+  ],
+  [
+    {
+      "c": "#ff8f8f",
+      "w": 1.25
+    },
+    "CTRL\n\n\n\n\n\nCrouch",
+    {
+      "c": "#808080",
+      "w": 1.25
+    },
+    "WIN",
+    {
+      "c": "#eb70ff",
+      "w": 1.25
+    },
+    "ALT\nChat\n\n\n\n\nVoice",
+    {
+      "c": "#ff8f8f",
+      "w": 6.25
+    },
+    "SPACE\n\n\n\n\n\nJump",
+    {
+      "c": "#808080",
+      "w": 1.25
+    },
+    "ALT",
+    {
+      "w": 1.25
+    },
+    "WIN",
+    {
+      "w": 1.25
+    },
+    "FN",
+    {
+      "w": 1.25
+    },
+    "CTRL",
+    {
+      "x": 0.25
+    },
+    "&#9666;",
+    "&#9662;",
+    "&#9656;",
+    {
+      "x": 0.25,
+      "w": 2
+    },
+    "0",
+    "."
+  ]
+]
