@@ -1,6 +1,4 @@
-# os_csgo_config
-
-My Counter Strike: Global Offensive config files
+# CSGO Config files
 
 Keyboard:
 
