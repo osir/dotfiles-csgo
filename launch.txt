@@ -1,0 +1,1 @@
+-console -novid -language pirate -refresh 144 -high -fullscreen -nod3d9ex +exec autoexec
