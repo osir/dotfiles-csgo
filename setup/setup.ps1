@@ -44,6 +44,7 @@ function main
     $launchOpts = Get-Content "$PSScriptRoot\..\launch.txt"
     Write-Output "Don't forget to set the launch options:"
     Write-Host -BackgroundColor "green" -ForegroundColor "black" "$launchOpts"
+    Write-Host -BackgroundColor "red" -ForegroundColor "white" "Don't forget to run ``exec autoexec`` in console."
 }
 
 function Get-ConfigPath
